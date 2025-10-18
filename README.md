@@ -18,7 +18,7 @@ This dashboard provides a clear overview of:
 
 ## 🖼️ Dashboard Preview
 
-![Superstore Dashboard](Images/superstore_dashboard.png)
+![Superstore Dashboard](Screenshot 2025-10-17 184659.png)
 
 ---
 
