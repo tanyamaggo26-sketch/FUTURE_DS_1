@@ -16,12 +16,6 @@ This dashboard provides a clear overview of:
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Superstore Dashboard](Screenshot 2025-10-17 184659.png)
-
----
-
 ## 🧠 Tools & Skills Used
 
 | Tool | Purpose |
@@ -56,14 +50,6 @@ This dashboard provides a clear overview of:
 *Email:* [tanyamaggo26@gmail.com](mailto:tanyamaggo26@gmail.com)  
 *LinkedIn:* Tanya Maggo(https://www.linkedin.com/in/tanya-maggo-8a354b315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 If you liked this dashboard, ⭐ star this repository on GitHub!
-
----
-
-### 💡 How to View the Dashboard
-
-1. Download the .pbix file from this repo.  
-2. Open it using *Power BI Desktop*.  
-3. Explore the visuals and filters interactively.
 
 ---
 
